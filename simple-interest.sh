@@ -2,9 +2,9 @@
    # This script calculates simple interest given principal,
    # annual rate of interest and time period in years.
    # Do not use this in production. Sample purpose only.
-   # Author: jl2023spring
+   # Author: jl
    # Additional Authors:
-   # <your GitHub username>
+   # jl2023spring
    # Input:
    # p, principal amount
    # t, time period in years
